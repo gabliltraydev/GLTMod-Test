@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gabliltraymod",
+  "name": "Gabriel Lil Tray Mod",
+  "description": "Le mod du youtubeur Gabriel - Lil Tray",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gabliltray"],
+  "credits": "gabliltray",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
